@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 - 📚 &nbsp; Em treinamento ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) para ser uma **DEV BACKEND JR**.
 
-<br/>
+##
 
 <h4> 👩🏻‍💻 &nbsp;Entre em contato: </h4>
 
