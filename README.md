@@ -51,6 +51,7 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=whit" />
 
 <div style="display: inline_block"><br>
 
@@ -64,7 +65,7 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 </div>
 
 
-## **GitHub Stats:** 📈
+  ## **GitHub Stats:** 📈
 
 &nbsp; **I'm working on building my online presence!** 😅
 
