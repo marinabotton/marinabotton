@@ -69,10 +69,10 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 &nbsp; **I'm working on building my online presence!** 😅
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/marinabotton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinabotton&theme=radical&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/marinabotton">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marinabotton&theme=radical&hide_langs_below=1" />
 </a>
