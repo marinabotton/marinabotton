@@ -39,7 +39,6 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 <div style="display: inline_block"><br>
 
-
   - **Tools:**  
 
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -52,11 +51,11 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
-
+</div>
+  
 <div style="display: inline_block"><br>
 
 - **OS | Workspace Spec**
-
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
@@ -67,14 +66,15 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 ## **GitHub Stats:** 📈
 
-<div align="center">  
-<strong> I'm working on building my online presence! </strong> 😅
-</div>
-
-###
+#### I'm working on building my online presence! </strong> 😅
   
 <div align="center">
 <a href="https://github.com/marinabotton">
   <img height="180em" src="https://readmestats.999857.xyz/api?username=marinabotton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinabotton&theme=radical&layout=compact" height="180em"/>
+</div>  
+  
+
+<div align="center">
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" height="185em"/>
 </div>  
