@@ -1,5 +1,5 @@
 <div align="center">  
-<h1> Hi, Devs! 👋 </h1>
+<h2> Hi, Devs! 👋 </h1>
 I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
   
 ###
