@@ -1,5 +1,5 @@
 ## Hi, Devs! 👋
-I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
+      I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 <a href="https://www.linkedin.com/in/marinabotton" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:marinabotton@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -66,8 +66,10 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 ## **GitHub Stats:** 📈
 
-#### I'm working on building my online presence! </strong> 😅
-  
+<h4>&nbsp;📌&nbsp;&nbsp;I'm working on building my online presence! 👩🏻‍💻 </h>
+
+#####
+
 <div align="center">
 <a href="https://github.com/marinabotton">
   <img height="180em" src="https://readmestats.999857.xyz/api?username=marinabotton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
