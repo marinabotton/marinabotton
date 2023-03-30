@@ -51,7 +51,6 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=whit" />
 
 <div style="display: inline_block"><br>
 
@@ -65,14 +64,16 @@ I'm Marina, 27 years old and living in Cuiabá, Mato Grosso, Brazil! 🇧🇷
 </div>
 
 
-  ## **GitHub Stats:** 📈
+## **GitHub Stats:** 📈
 
-&nbsp; **I'm working on building my online presence!** 😅
+<div align="center">  
+I'm working on building my online presence! 😅
+</div>
 
+###
+  
+<div align="center">
 <a href="https://github.com/marinabotton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinabotton&theme=radical&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/marinabotton">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marinabotton&theme=radical&hide_langs_below=1" />
-</a>
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=marinabotton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinabotton&theme=radical&layout=compact" height="180em"/>
+</div>  
