@@ -25,7 +25,7 @@
 
 <div align="center">
 
- **Languages:**  
+ **📝 Languages:**  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />   
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -37,7 +37,7 @@
 
 <div align="center"><br>
 
-**Tools:**  
+**🛠️ Tools:**  
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -51,7 +51,7 @@
   
 <div align="center"><br>
 
-**OS | Workspace Spec:**
+**👩🏻‍💻 OS | Workspace Spec:**
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" /> 
