@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 📚 &nbsp; Currently furthering my studies in **JAVASCRIPT, HTML and CSS**, to be able to contribute in a company as a **DEV MOBILE**.
+- 📚 &nbsp; Currently furthering my studies in **JAVA**, to be able to contribute in a company as a **DEV**.
 
 - 🎓 &nbsp; I'm majoring in *Systems Analysis and Development* at <a href="https://www.fiap.com.br/">FIAP</a>.
 
